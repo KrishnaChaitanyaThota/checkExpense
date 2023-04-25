@@ -1,0 +1,33 @@
+.heading{
+    background-color: #5bc5a7;
+
+}
+
+.title{
+    font-weight: bold;
+    font-size: large;
+    padding: 2px;
+    color: white;
+    margin-left: 15%;
+
+}
+.border{
+    height: 90vh;
+    width: 50vw;
+    /* border: 1px  black; */
+    box-shadow: 3px 3px 5px #aaaaaa , -3px -3px 5px #aaaaaa ;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.button{
+    background-color: #EEEEEE;
+    padding: 15px;
+}
+.addexpense{
+    margin-left: 100%;
+    background-color: blue;
+}
